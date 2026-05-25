@@ -35,4 +35,5 @@ The dataset was cleaned, transformed, and analyzed to uncover meaningful busines
 - Improved reporting efficiency through interactive dashboards
 
 ##**Outcome**
+
 Successfully developed a professional Power BI dashboard that converts raw business data into meaningful insights, enabling better business analysis and decision-making.
